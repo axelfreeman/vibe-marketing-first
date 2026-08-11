@@ -97,23 +97,35 @@ Do the following — use real data from your searches, not assumptions:
 7. BUDGET REALITY CHECK. Based on competitor data and market norms, what's a realistic monthly marketing budget for the first 3 months? Don't give me "it depends" — give me a range with reasons.
 ```
 
-### Prompt 3: Generate Content That Attracts Attention
+### Prompt 3: Write Your Sales Proposal — Short, Medium, Long
 
 ```
-You are a growth marketer. Write content to attract people to a product that doesn't exist yet.
+You are a sales strategist. Based on everything we've already analyzed — the market data, competitor research, audience portraits, and traffic sources — write a sales proposal for my product.
 
-My product idea: [DESCRIBE YOUR PRODUCT]
-My target audience: [WHO ARE THEY]
+My product: [DESCRIBE YOUR PRODUCT IN ONE SENTENCE]
 
-Generate:
+Scan what we've already learned from the previous prompts. Look at how competitors sell their offers — their wording, their hooks, their angles. Use that as reference.
 
-1. 5 TWEETS — each targeting a different emotional trigger: frustration with current solutions, curiosity about a better way, social proof ("look what this person achieved"), contrarian take ("why the standard advice is wrong"), and a direct ask ("who else is struggling with this?").
+Give me THREE versions of the same sales pitch, at different lengths:
 
-2. 1 REDDIT POST — format: "I built X. Here's what I learned." Focus on the JOURNEY, not the product. Share mistakes, surprises, and one counter-intuitive insight. End with: "Would love feedback from people who've solved similar problems."
+**SHORT — 100 characters**
+For Telegram DMs, push notifications, text messages, Twitter bio. Must stop the scroll and make someone want to learn more in one breath.
 
-3. 1 LINKEDIN POST — professional but vulnerable. Talk about the PROBLEM you observed, why existing solutions suck, and what you're building differently. No pitch — just the mission.
+**MEDIUM — 300 characters**
+For LinkedIn DMs, cold emails, Instagram posts, community introductions. Who it's for, what problem it solves, why it's different, what to do next.
 
-4. HOOKS ONLY — give me 10 one-sentence hooks for social media. The best hooks either: reveal something surprising, promise a specific result, or attack a common belief.
+**LONG — 800 characters**
+For landing pages, pitch decks, partnership proposals. Full value proposition: the pain → the current alternatives (and why they suck) → your solution → the transformation → social proof hook → call to action.
+
+For each version:
+- Write like a human, not a marketer. No "revolutionary," no "game-changing," no "cutting-edge."
+- Make it specific. Replace generic claims with concrete promises.
+- Include the core emotional trigger that makes someone say "I need this."
+
+When you're done, tell me:
+1. Which competitor's sales approach this most closely matches
+2. What's missing that would make it stronger
+3. One question I should answer to improve the pitch
 ```
 
 ### Prompt 4: Find Your First 10 Users (Without Spending Money)
