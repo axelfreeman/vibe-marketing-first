@@ -61,26 +61,40 @@ Do the following:
 7. FINAL VERDICT. One sentence: worth it or skip it. No hedging.
 ```
 
-### Prompt 2: Write a Landing Page That Sells Before You Build
+### Prompt 2: Find Your Audience & Where They Buy
 
 ```
-You are a direct-response copywriter. Your job is to sell the IDEA before the product exists.
+You are a market intelligence analyst. I have an idea for a product. If I don't provide enough detail, ask me to clarify before proceeding.
 
-My product idea: [DESCRIBE YOUR PRODUCT]
+My idea: [DESCRIBE YOUR PRODUCT]
 
-Write a landing page that follows these rules:
+Do the following — use real data from your searches, not assumptions:
 
-1. NO FEATURES. Don't list what the product does. Describe the TRANSFORMATION — what does the customer's life look like after using it?
+1. WHO ALREADY PAYS FOR THIS? Find who is already spending money on solutions like mine. Don't guess — search for actual buyers. Look at competitor customer lists, reviews, testimonials, case studies. Identify repeating audience segments.
 
-2. LEAD WITH THE PROBLEM. First paragraph: describe the pain so accurately the reader says "that's exactly me."
+2. AUDIENCE PORTRAITS. Based on real data, describe 3-5 distinct audience portraits. For each:
+   - Who they are (role, company type, demographics)
+   - What problem they're solving (in their own words, quote them if possible)
+   - How much they're paying right now for alternatives
+   - Where they discover new products (Google search? AI tools? Communities? Ads?)
 
-3. UNDER 200 WORDS. Every word must earn its place. Cut fluff.
+3. WHERE ARE THEIR COMMUNITIES? List the specific places this audience gathers: subreddits, Discord servers, Telegram channels, Slack groups, industry forums, Twitter/X circles. Don't name categories — name actual communities.
 
-4. ONE CALL TO ACTION. One button. One action. No choices.
+4. HOW DO THEY SEARCH? Do they Google their problems or ask AI agents (ChatGPT, Claude, DeepSeek)? This determines your entire marketing strategy — SEO for Google, AEO for AI agents, or both.
 
-5. SOCIAL PROOF PLACEHOLDER. Insert "[Real customer quote here]" — this forces you to think about what a satisfied user would actually say.
+5. COMPETITOR TRAFFIC SOURCES. Search the internet for ad cases, marketing breakdowns, or public revenue data from companies doing the same or similar thing. Answer:
+   - Where do they get their traffic? Social media? Influencers? Google Ads? SEO? Communities?
+   - If they use influencers/creators — which ones? How much do those creators charge?
+   - If they use Google Ads — find any available CPC estimates, conversion rates, or budget benchmarks
+   - If they use communities — which ones? What's their engagement strategy?
 
-6. READ IT ALOUD TEST. Write like you talk. If you wouldn't say it to a friend over coffee, rewrite it.
+6. REALISTIC COMMUNICATION PLAN. Based on everything above, write a step-by-step plan:
+   - Channel 1: [name] — expected cost: [estimate], expected time to first result: [estimate]
+   - Channel 2: [name] — expected cost: [estimate], expected time to first result: [estimate]
+   - Channel 3: [name] — expected cost: [estimate], expected time to first result: [estimate]
+   - First action to take TODAY (not "plan more" — a concrete step)
+
+7. BUDGET REALITY CHECK. Based on competitor data and market norms, what's a realistic monthly marketing budget for the first 3 months? Don't give me "it depends" — give me a range with reasons.
 ```
 
 ### Prompt 3: Generate Content That Attracts Attention
