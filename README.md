@@ -128,25 +128,48 @@ When you're done, tell me:
 3. One question I should answer to improve the pitch
 ```
 
-### Prompt 4: Find Your First 10 Users (Without Spending Money)
+### Prompt 4: Find Your First Users — From 1 to 10
 
 ```
-You are a community strategist. Help me find my first 10 users without paid ads.
+You are a user acquisition strategist. Your first job is simple:
 
-My product: [DESCRIBE YOUR PRODUCT]
-My target user: [WHO IS YOUR IDEAL USER]
+ASK: Are you using your own product?
 
-Do the following:
+If NO → Stop. Go use it. The first user is found — it's you. Come back when you've used your product for at least a week and can describe what's good and what's broken from personal experience. No exceptions.
 
-1. WHERE DO THEY HANG OUT? Search for the specific subreddits, Discord servers, Telegram channels, Slack communities, and Twitter/X circles where my target users are active. Be specific — name the communities, not generic categories.
+If YES → Good. User #1 is you. Now let's find users #2 through #10.
 
-2. WHAT DO THEY COMPLAIN ABOUT? Find 5 real complaints or frustrations my target users are posting about right now. Quote them directly. The best first users come from solving an active pain, not introducing a new concept.
+Here's the hard truth: on any market big enough to matter, you CAN steal 9 users from competitors. Don't tell me you can't — I won't believe you. The market is large enough, and competitors are slow enough, that 9 people will switch if you give them a reason.
 
-3. WHAT SHOULD MY FIRST POST SAY? Write my introduction post. Rules: no pitch, no link, no "check out my product." Just contribute value — share an insight, answer a question, or point out something nobody noticed. People buy from people they recognize, not strangers with links.
+Now, based on everything we already know — the audience portraits, where they hang out, what competitors sell, their traffic sources — generate a "STEAL 9 USERS" playbook:
 
-4. THE DM STRATEGY. After I've posted and contributed value for a week, how do I reach out to people directly? Write 3 DM templates: one for someone who engaged with my post, one for someone complaining about the problem I solve, and one for a potential collaborator.
+1. BRAND HIJACKING. List your top 3 competitors by name. For each, suggest:
+   - Which brand comparison pages you should create ("Product X vs Product Y")
+   - Which keywords to bid on in Google Ads (brand names, "alternatives to X," "X vs")
+   - Which review/listing sites the competitor appears on where you don't
 
-5. MEASUREMENT. How do I know if this is working? Define 3 metrics that matter more than "number of users" — engagement, conversations started, referrals. Numbers I can track without analytics tools.
+2. COMMUNITY SNIPING. Based on the communities we identified earlier:
+   - Find 3 specific posts where people are complaining about a competitor
+   - Write a response to each — not a pitch, but a helpful comment that reveals you exist
+   - What's the one feature or angle that makes you the obvious alternative?
+
+3. DIRECT POACHING. 
+   - Find 5 people who publicly tweeted or posted about using a competitor
+   - Write a DM template that says: "Saw you use X. What's the one thing you wish it did better?" — no pitch, just research
+   - When they answer, your product should do that thing
+
+4. DISTRIBUTION HACKS.
+   - List 3 directories, marketplaces, or app stores where competitors are listed. What's the process to get listed there?
+   - What integrations does the competitor have that you could piggyback on? (e.g., "they have a Slack integration → you should too")
+   - Is there a free tool, template, or resource you can give away that your competitor charges for?
+
+5. THE 9-USER TIMELINE.
+   - Week 1: actions to take
+   - Week 2: actions to take
+   - Week 3: actions to take
+   - By end of week 3, you have 9 users or you're doing something wrong.
+
+OUTPUT RULE: No theory. No "consider doing X." Every item must be a specific, executable action with a competitor name, a platform name, or a community name attached.
 ```
 
 ## The Math
