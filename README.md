@@ -184,3 +184,6 @@ OUTPUT RULE: No theory. No "consider doing X." Every item must be a specific, ex
 - 📖 **Full article:** https://axelfreeman.com/blog/vibe-coding-guide.html
 - 🛠 **Need B2B contacts?** [TAPAC](https://tapacapi.com) — 100 free searches
 - 📦 **More guides:** https://github.com/axelfreeman
+---
+
+*Last updated: August 2026.*
